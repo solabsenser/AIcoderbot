@@ -1,7 +1,6 @@
-fastapi
+fastapi[standard]
 uvicorn
 aiogram
 httpx
 aiosqlite
 pytest
-
